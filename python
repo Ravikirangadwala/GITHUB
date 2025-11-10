@@ -24,3 +24,12 @@ elif num > 1:
         print(num, "is not a prime number")
     else:
         print(num, "is a prime number")
+
+
+
+
+number = 1
+
+while number <= 3:
+    print(number)
+    number = number + 1
